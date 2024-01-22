@@ -12,7 +12,8 @@
 
 Окно с выборами вкладок:
 
-![image](https://github.com/Nolucker391/app_project_kai/assets/140087176/accb185d-2cdb-459a-be78-46e4b167fe9e)
+![image](https://github.com/Nolucker391/app_project_kai/assets/140087176/9e760d34-b3a8-4add-92d7-f40a378b9175)
+
 
 Вкладка №1.Ближайшие события
 
