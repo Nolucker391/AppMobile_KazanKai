@@ -1,2 +1,6 @@
-![image](https://github.com/Nolucker391/app_project_kai/assets/140087176/0e38291d-19a4-46cd-aa0f-a002ee50e39f)
+Приложение "КАИ-информация". 
+Работа приложения:
+В начальной странице приложения страницы встречает авторизация:
+![image](https://github.com/Nolucker391/app_project_kai/assets/140087176/56dbd09e-a070-454d-9735-570a23d6bfb6)
+
 
