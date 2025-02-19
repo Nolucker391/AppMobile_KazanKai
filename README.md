@@ -1,5 +1,13 @@
-<h1 align="center">Приложение "КАИ-информация".
+<h1 align="center">WEB - Portfolio
 
+<br>
+<br>
+
+![Image](https://github.com/user-attachments/assets/d65dcbe2-f88f-4675-8356-f0842aa99e85)
+
+</h1>
+
+<hr />
 
 </h1>
 
